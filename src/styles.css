@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: blue;
+}
+
+
+.legend{
+    color: black;
+}
+
+.registro{
+    width: 310px;
+    background-color: white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    color: white;
+    
+
+
+}
+
+
+.registro h4{
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background: white;
+    color: black
+    
+}
+
+
+.principal{
+    width: 100%;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-size: 18px;
+
+}
+
+.botons{
+    background: white;
+}
+
+.botons:hover{
+    color: yellowgreen;
+}
+
+
+.registro .botons{
+    width: 100%;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 100%, rgba(252,176,69,1) 100%);
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0px;
+    font-size: 16px;
+    border-radius: 16px;
+}
+
+
+.fpassword  {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+.leyenda{
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+}
+
+
+.leyenda a{
+    text-decoration: none;
+
+}
+
+
+
